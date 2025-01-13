@@ -28,7 +28,7 @@ Welcome to my GitHub profile—where code meets creativity!
 
 ## 📈 Contribution Overview  
 
-![Contribution Chart](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27Week%201%27%2C%27Week%202%27%2C%27Week%203%27%2C%27Week%204%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Commits%27%2Cdata%3A%5B12%2C19%2C3%2C5%5D%7D%5D%7D%7D)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandri-kun&theme=radical&area=false&hide_border=true)  
 
 ## 😄 Pronouns  
 - He/Him/They  
