@@ -14,28 +14,36 @@
 
 ## 🚀 About Me
 
-🎨 I'm a passionate developer, creative thinker, and technology enthusiast with a love for building unique digital experiences.
-
+🎨 I'm a passionate developer, creative thinker, and technology enthusiast with a love for building unique digital experiences.  
 💡 Always curious, constantly learning, and eager to explore the intersection of **code**, **design**, and **innovation**.
 
 ---
 
 ## 🔥 Interests & Skills
 
-- 💻 **Technologies:** React, Vue, Android (Kotlin/Java), Flutter  
-- 🧠 **Topics:** AI/ML, UI/UX Design, Game Development  
-- 🛠️ **Tools:** Figma, Git, Firebase, Blender  
+<table align="center">
+  <tr>
+    <td><b>💻 Technologies</b></td>
+    <td>React, Vue, Android (Kotlin/Java), Flutter</td>
+  </tr>
+  <tr>
+    <td><b>🧠 Topics</b></td>
+    <td>AI/ML, UI/UX Design, Game Development</td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Tools</b></td>
+    <td>Figma, Git, Firebase, Blender</td>
+  </tr>
+</table>
 
 ---
 
 ## 📱 Published Apps
 
-Explore my published apps on the Google Play Store:
-
 <p align="center">
   <a href="https://play.google.com/store/apps/developer?id=IndoVerseID&hl=id">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Play_2022_icon.svg" width="30" />
-    <b>IndoVerseID Developer Profile</b>
+    <b>View on Google Play: IndoVerseID</b>
   </a>
 </p>
 
@@ -51,22 +59,22 @@ Explore my published apps on the Google Play Store:
 
 ## 🤝 Let's Collaborate
 
-- 🔍 Looking for open-source projects that empower others  
+- 🔍 Open-source projects that empower others  
 - 🎨 Creative tech-art fusions  
-- 🧠 Building educational or productivity tools  
+- 🧠 Educational or productivity tools  
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandri-kun&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandri-kun&layout=compact&theme=tokyonight" width="48%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandri-kun&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandri-kun&layout=compact&theme=tokyonight" width="48%" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandri-kun&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
+</div>
 
 ---
 
@@ -93,9 +101,6 @@ Explore my published apps on the Google Play Store:
 ---
 
 <p align="center">
-  <i>“Code is poetry, and I'm here to write symphonies.”</i>  
-</p>
-
-<p align="center">
+  <i>“Code is poetry, and I'm here to write symphonies.”</i><br/>
   <b>✨ Thank you for visiting! Let's build something amazing together! ✨</b>
 </p>
