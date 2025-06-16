@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/developer?id=IndoVerseID&hl=id">
-    <img alt="Google Play" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="200"/>
+    <img alt="Google Play" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" style="max-width: 200px; width: 100%;"/>
   </a>
 </p>
 
@@ -21,20 +21,15 @@
 
 ## 🔥 Interests & Skills
 
-<table align="center">
-  <tr>
-    <td><b>💻 Technologies</b></td>
-    <td>React, Vue, Android (Kotlin/Java), Flutter</td>
-  </tr>
-  <tr>
-    <td><b>🧠 Topics</b></td>
-    <td>AI/ML, UI/UX Design, Game Development</td>
-  </tr>
-  <tr>
-    <td><b>🛠️ Tools</b></td>
-    <td>Figma, Git, Firebase, Blender</td>
-  </tr>
-</table>
+<div align="center">
+  
+| **Area**         | **Skills**                          |
+|------------------|-------------------------------------|
+| 💻 Technologies  | React, Vue, Android (Kotlin/Java), Flutter |
+| 🧠 Topics        | AI/ML, UI/UX Design, Game Development      |
+| 🛠️ Tools         | Figma, Git, Firebase, Blender              |
+
+</div>
 
 ---
 
@@ -42,7 +37,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/developer?id=IndoVerseID&hl=id">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Play_2022_icon.svg" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Play_2022_icon.svg" width="20" />
     <b>View on Google Play: IndoVerseID</b>
   </a>
 </p>
@@ -67,20 +62,20 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandri-kun&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandri-kun&layout=compact&theme=tokyonight" width="48%" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandri-kun&show_icons=true&theme=tokyonight" style="max-width: 100%; min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandri-kun&layout=compact&theme=tokyonight" style="max-width: 100%; min-width: 300px;" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandri-kun&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandri-kun&theme=tokyo-night&hide_border=true" style="max-width: 100%;"/>
 </div>
 
 ---
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -101,6 +96,6 @@
 ---
 
 <p align="center">
-  <i>“Code is poetry, and I'm here to write symphonies.”</i><br/>
+  <i>"Code is poetry, and I'm here to write symphonies."</i><br/>
   <b>✨ Thank you for visiting! Let's build something amazing together! ✨</b>
 </p>
