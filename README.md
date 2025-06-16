@@ -8,9 +8,6 @@
   <a href="https://play.google.com/store/apps/developer?id=IndoVerseID&hl=id">
     <img alt="Google Play" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="180"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-link">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>
-  </a>
 </p>
 
 ---
@@ -120,20 +117,16 @@ Feel free to reach out if you have an idea or project in mind!
 Let's stay in touch! Reach out via:
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:indoverseid@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/your-linkedin-link">
+  <a href="www.linkedin.com/in/sandri-irsyad-41012624a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
   <a href="https://play.google.com/store/apps/developer?id=IndoVerseID&hl=id">
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-  </a>
-  
-  <a href="https://x.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
