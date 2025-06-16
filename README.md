@@ -95,19 +95,19 @@ Feel free to reach out if you have an idea or project in mind!
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandri-kun&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="45%" style="margin: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandri-kun&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" style="margin: 5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandri-kun&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandri-kun&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandri-kun&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%" style="margin-top: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandri-kun&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandri-kun&theme=tokyonight" alt="GitHub Streak" width="45%" style="margin-top: 10px;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sandri-kun&theme=tokyonight&no-frame=true&row=1" width="100%"/>
 </p>
 
 ---
