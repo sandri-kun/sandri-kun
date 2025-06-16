@@ -16,10 +16,7 @@ Welcome to my GitHub profile—where code meets creativity!
 - 🎉 Creative ventures combining art and code  
 - 🧩 Solving complex coding challenges together
 
-- ## 🔗 Useful Links
-
-- [Official Website](https://indoverseid.site)  
-- [IndoVerseID on Google Play](https://play.google.com/store/apps/developer?id=IndoVerseID&hl=id)
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/developer?id=IndoVerseID&hl=id)
 
 ## 📫 How to reach me?  
 - 💌 Drop me a message on [LinkedIn](your-linkedin-link)  
